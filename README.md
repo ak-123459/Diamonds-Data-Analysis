@@ -48,8 +48,6 @@
 
    <a >
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="colab"/>
-  </a>
-
 
 <a > <img src="https://i.ibb.co/YBkQdSs/jupyter-notebook.webp" alt="jupyter-notebook" border="0" width="50"/> </a>
 
