@@ -54,7 +54,7 @@
 <a > <img src="https://i.ibb.co/YBkQdSs/jupyter-notebook.webp" alt="jupyter-notebook" border="0" width="50"/> </a>
 
 
-  <a >          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> </a>
+  <a >          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" /> </a>
           
 
 </div>
