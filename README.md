@@ -1,6 +1,6 @@
 
 <div align="center">
-<a href="https://ibb.co/bPHp8kW"><img src="https://i.ibb.co/Y3DvqxR/Screenshot-2024-11-08-174914.png" alt="Screenshot-2024-11-08-174914" border="0"></a>
+<a href="https://ibb.co/bPHp8kW"><img src="https://docs.anitadiamonds.com/blogs/4-most-important-diamond-market-trends-changi-IIGYXW.jpg" alt="Screenshot-2024-11-08-174914" border="0"></a>
 
   ## Diamonds MarketPlace Data Analysis
 </div> 
