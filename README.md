@@ -62,8 +62,7 @@
 
 
 ### Data Files
-- **Bird Strikes Data Visualization.pdf**: contains report and visualization of data.
-- **BirdStrikeDataAnalysis.ipynb**: jupyter file for python code.
+- **Diamond Online Marketplace_Data_Analysis.ipynb**: jupyter file for python code.
 
 
  <br> </br>
